@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,UnitPrice,UOM,StockQty
+PROD001,Product 1,Power Systems,3505.3,pcs,501
+PROD002,Product 2,Accessories,2725.27,pcs,996
+PROD003,Product 3,Backup Power,4906.78,pcs,483
+PROD004,Product 4,Backup Power,3151.93,pcs,811
+PROD005,Product 5,Power Systems,1817.09,set,721
+PROD006,Product 6,Accessories,4241.6,pcs,468
+PROD007,Product 7,Backup Power,1565.02,set,890
+PROD008,Product 8,Power Systems,1292.4,box,541
+PROD009,Product 9,Backup Power,4281.22,set,132
+PROD010,Product 10,Energy Storage,3960.76,pcs,55
+PROD011,Product 11,Power Systems,1204.54,pcs,714
+PROD012,Product 12,Accessories,170.61,pcs,884
+PROD013,Product 13,Power Systems,1704.87,pcs,401
+PROD014,Product 14,Power Systems,3583.42,pcs,552
+PROD015,Product 15,Backup Power,1101.59,pcs,335
+PROD016,Product 16,Backup Power,1354.57,pcs,420
+PROD017,Product 17,Accessories,1414.97,set,171
+PROD018,Product 18,Energy Storage,1496.13,pcs,522
+PROD019,Product 19,Power Systems,4307.42,pcs,425
+PROD020,Product 20,Accessories,3049.56,set,902
+PROD021,Product 21,Energy Storage,2429.45,box,375
+PROD022,Product 22,Energy Storage,4107.23,box,89
+PROD023,Product 23,Backup Power,1782.45,set,92
+PROD024,Product 24,Backup Power,111.65,box,654
+PROD025,Product 25,Power Systems,4318.65,set,602
+PROD026,Product 26,Solar Equipment,3372.28,pcs,301
+PROD027,Product 27,Energy Storage,1006.04,set,502
+PROD028,Product 28,Power Systems,1844.72,set,785
+PROD029,Product 29,Energy Storage,3986.23,box,872
+PROD030,Product 30,Backup Power,3318.42,box,180
+PROD031,Product 31,Accessories,4815.24,set,209
+PROD032,Product 32,Accessories,1884.89,set,171
+PROD033,Product 33,Energy Storage,4191.32,box,961
+PROD034,Product 34,Solar Equipment,2188.52,box,740
+PROD035,Product 35,Backup Power,2941.17,set,851
+PROD036,Product 36,Accessories,3937.08,pcs,197
+PROD037,Product 37,Energy Storage,783.73,pcs,643
+PROD038,Product 38,Energy Storage,720.71,pcs,504
+PROD039,Product 39,Backup Power,3294.08,box,425
+PROD040,Product 40,Power Systems,4756.53,box,84
+PROD041,Product 41,Backup Power,2165.25,box,441
+PROD042,Product 42,Backup Power,4935.64,pcs,251
+PROD043,Product 43,Accessories,1944.1,box,900
+PROD044,Product 44,Power Systems,4348.96,box,747
+PROD045,Product 45,Solar Equipment,1330.13,set,111
+PROD046,Product 46,Accessories,2028.01,set,343
+PROD047,Product 47,Energy Storage,2452.59,box,858
+PROD048,Product 48,Energy Storage,3180.79,set,310
+PROD049,Product 49,Solar Equipment,4048.43,box,890
+PROD050,Product 50,Power Systems,773.08,pcs,215
