@@ -2,3 +2,4 @@ CustomerID,Name,Email,Phone,Address,City,Country
 CUST001,Customer 1,customer1@example.com,-2172,1 Main St,Boston,USA
 CUST002,Customer 2,customer2@example.com,-2173,2 Main St,Boston,USA
 CUST051,Customer 51,customer51@example.com,-2299,51 Main St,Springfield,USA
+CUST052,Customer 52,customer51@example.com,-2298,52 Main St,Springfield,USA
